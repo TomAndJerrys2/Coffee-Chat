@@ -21,6 +21,7 @@ body {
   width: 90vw;
   height: 90vh;
   background-color: purple;
-
+  backdrop-filter: blur(19px) saturate(180%);
   border-radius: 12px;
+  border: 1px solid white;
 }
