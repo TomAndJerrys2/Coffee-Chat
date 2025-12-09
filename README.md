@@ -1,5 +1,8 @@
 # CoffeeChat
 
+[!NOTE]
+You may need a Google Firebase Account to Run this Application Properly.
+
 A Chat application design for my family built in Modern React for a responsive
 and fast web-design. Paired with Googles Firebase API for endpoint authentication,
 Load balancing and Storage options - Coffee Chat makes for a streamlined, lightweight
