@@ -36,5 +36,8 @@ however, to keep it simple for now we will focus just on users and messaging.
 - Better Profile/Account Cards
 - Profile Nicknames for Self and Friends
 
+# License
+
+# Thanks for Checking out CoffeeChat!
 By Kyle Brady
 
